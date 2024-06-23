@@ -64,6 +64,9 @@ body {
     width: 20%;
     margin: auto;
     margin: auto;
+
+    display: flex;
+    justify-content: center;
 }
 
 .about-me {
@@ -90,6 +93,8 @@ body {
     height: 10%;
     width: 5%;
     float: right;
+    display: block;
+    margin-left: auto;
 }
 
 .contact {
@@ -100,4 +105,7 @@ body {
 
     margin: auto;
     margin: auto;
+
+    display: flex;
+    justify-content: center;
 }
