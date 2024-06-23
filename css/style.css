@@ -39,6 +39,8 @@ body {
 }
  .site-links a {
     margin: auto;
+    text-decoration: none;
+    color: black;
  }
 
  .site-links a:hover {
@@ -62,7 +64,7 @@ body {
     width: 20%;
     margin: auto;
     margin: auto;
-
+    display: flex;
     justify-content: center;
 }
 
@@ -81,6 +83,7 @@ body {
     text-align: left;
     padding: 1em;
     position: fixed;
+    vertical-align: middle;
 
     margin: 5em;
     margin-right: 10px;
