@@ -55,7 +55,6 @@ body {
     background-color: blue;
     color: white;
 
-    margin-left: 300px ;
     padding: 1em;
 
     margin: auto;
@@ -71,7 +70,6 @@ body {
     background-color: blue;
     color: white;
 
-    margin-left: 300px ;
     padding: 1em;
 
     margin: auto;
@@ -81,13 +79,13 @@ body {
 .portrait {
     width: 100%;
     height: auto;
+    float: right;
 }
 
 .contact {
     background-color: blue;
     color: white;
 
-    margin-left: 300px ;
     padding: 1em;
 
     margin: auto;
