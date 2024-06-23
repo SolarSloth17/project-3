@@ -15,10 +15,38 @@ body {
     left: 0;
 }
 
+.navigation a {
+    text-decoration: none;
+    color: black;
+}
+
+.site-title {
+    background-color: white;
+    color: black;
+
+    margin: 2em 2em 2em 2em;
+    margin: auto;
+    text-align: center;
+    font-size: 200%;
+}
+
 .site-links {
     background-color: white;
     color: black;
+
+    margin: 2em 2em 2em 2em;
+    margin: auto;
+    text-align: center;
+
 }
+ .site-links a {
+    display: block;
+    margin: auto;
+ }
+
+ .site-links a:hover {
+    margin-left: 2em;
+ }
 
 .main {
     background-color: blue;
