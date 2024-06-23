@@ -61,7 +61,7 @@ body {
 }
 
 .banner {
-    width: 300%;
+    width: auto;
     height: auto;
     position: fixed;
 }
@@ -79,6 +79,7 @@ body {
 
 .about-me p {
     text-align: left;
+    float: left;
     padding: 1em;
     position: fixed;
 
