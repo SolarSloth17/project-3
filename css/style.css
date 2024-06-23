@@ -79,7 +79,6 @@ body {
 
 .about-me p {
     text-align: left;
-    float: left;
     padding: 1em;
     position: fixed;
 
@@ -87,7 +86,7 @@ body {
     margin: auto;
 }
 
-.about-me img {
+.about-me {
     height: 10%;
     width: 5%;
     float: right;
