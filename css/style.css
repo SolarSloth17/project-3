@@ -60,6 +60,8 @@ body {
 }
 
 .banner {
+    height: 50%;
+    width: fit-content;
     margin: auto;
     margin: auto;
 }
