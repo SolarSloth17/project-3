@@ -32,7 +32,7 @@ body {
     font-size: 200%;
 }
 
-.site-links {
+.site-links a {
     background-color: white;
     color: black;
 
