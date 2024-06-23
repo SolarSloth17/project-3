@@ -60,9 +60,8 @@ body {
 }
 
 .banner {
-    width: auto;
+    width: 100%;
     height: auto;
-    position: fixed;
 }
 
 .about-me {
