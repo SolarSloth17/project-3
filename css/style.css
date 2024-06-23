@@ -60,7 +60,7 @@ body {
 }
 
 .banner {
-    height: 50%;
+    height: 15%;
     width: fit-content;
     margin: auto;
     margin: auto;
@@ -88,6 +88,8 @@ body {
 }
 
 .portrait {
+    height: 10%;
+    width: 5%;
     float: right;
     position: fixed;
 }
