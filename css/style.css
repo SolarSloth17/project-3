@@ -24,7 +24,7 @@ body {
     background-color: white;
     color: black;
 
-    margin: 2em 2em 2em 2em;
+    margin: auto;
     margin: auto;
     text-align: center;
     font-size: 200%;
@@ -57,7 +57,7 @@ body {
 }
 
 .banner {
-    width: 100%;
+    width: auto;
     height: auto;
 }
 
