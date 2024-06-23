@@ -1,0 +1,56 @@
+
+body {
+    font-family: Lato;
+    font-size: 2em;
+}
+
+.navigation {
+    width: 300px;
+    background-color: white;
+    color: black;
+    height: 100%;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.site-links {
+    background-color: white;
+    color: black;
+}
+
+.main {
+    background-color: blue;
+    color: white;
+
+    margin-left: 300px ;
+    padding: 1em;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+}
+
+.about-me {
+    background-color: blue;
+    color: white;
+
+
+    margin-left: 300px ;
+    padding: 1em;
+}
+
+.portrait {
+    width: 50%;
+    height: auto;
+}
+
+.contact {
+    background-color: blue;
+    color: white;
+
+    margin-left: 300px ;
+    padding: 1em;
+}
