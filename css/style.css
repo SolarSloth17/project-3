@@ -60,8 +60,8 @@ body {
 }
 
 .banner {
-    width: 100%;
-    height: auto;
+    margin: auto;
+    margin: auto;
 }
 
 .about-me {
@@ -86,8 +86,6 @@ body {
 }
 
 .portrait {
-    width: 100%;
-    height: auto;
     float: right;
     position: fixed;
 }
