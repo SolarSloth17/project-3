@@ -5,6 +5,8 @@ body {
     background-color: blue;
     color: white;
     scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
 }
 
 .navigation {
@@ -33,9 +35,8 @@ body {
 .site-links a {
     background-color: white;
     color: black;
-    font-size: 4em;
-
 }
+
  .site-links a {
     margin-inline: 2em;
     text-decoration: none;
@@ -55,7 +56,8 @@ body {
 
     margin-left: 300px;
     margin-right: 300px;
-    overflow: scroll;
+    display: flex;
+    justify-content: center;
 }
 
 .banner {
@@ -76,6 +78,9 @@ body {
     padding: 1em;
     text-align: justify;
     margin: auto;
+    
+    display: flex;
+    justify-content: center;
 }
 
 .portrait {
