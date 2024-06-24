@@ -4,6 +4,10 @@ body {
     font-size: 2em;
     background-color: blue;
     overflow: scroll;
+    margin-left: 300px;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-right: 300px;
 }
 
 .navigation {
@@ -28,8 +32,8 @@ body {
     background-color: white;
     color: black;
 
-    margin: auto;
-    margin: auto;
+    margin-left: 300px;
+    margin-right: 300px;
     text-align: center;
     font-size: 200%;
 }
@@ -40,7 +44,7 @@ body {
 
 }
  .site-links a {
-    margin: auto;
+    margin-inline: 5em;
     text-decoration: none;
     color: black;
     display: inline-block;
@@ -92,7 +96,7 @@ body {
 
     margin: 5em;
     margin-left: 300px;
-    margin-right: auto;
+    margin-right: 300px;
 
     font-size: 2em;
     
