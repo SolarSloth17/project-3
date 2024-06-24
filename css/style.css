@@ -23,7 +23,7 @@ body {
 .navigation a {
     text-decoration: none;
     color: white;
-    font-size: large;
+    font-size: 4em;
 
 }
 
@@ -39,7 +39,7 @@ body {
 .site-links a {
     background-color: blue;
     color: white;
-    font-size: medium;
+    font-size: 2em;
 }
 
  .site-links a {
@@ -68,7 +68,7 @@ body {
 .banner {
     display: flex;
     justify-content: center;
-    width: 500px;
+    width: 1000px;
     height: auto;
 }
 
@@ -76,8 +76,8 @@ body {
     background-color: blue;
     color: white;
 
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 500px;
+    margin-right: 500px;
 
     max-width: fit-content;
     border: 2px solid black;
