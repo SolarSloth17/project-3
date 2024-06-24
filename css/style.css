@@ -16,10 +16,6 @@ body {
     background-color: white;
     color: black;
 
-    position: fixed;
-    top: 0;
-    bottom: 0;
-
 }
 
 .navigation a {
@@ -36,10 +32,6 @@ body {
     margin-right: 300px;
     text-align: center;
     font-size: 200%;
-
-    position: fixed;
-    top: 0;
-    bottom: 0;
 }
 
 .site-links a {
@@ -68,10 +60,6 @@ body {
     margin-left: 300px;
     margin-right: 300px;
     overflow: scroll;
-
-    position: fixed;
-    top: 0;
-    bottom: 0;
 }
 
 .banner {
@@ -83,10 +71,6 @@ body {
 
     display: flex;
     justify-content: center;
-
-    position: fixed;
-    top: 0;
-    bottom: 0;
 }
 
 .about-me {
@@ -96,10 +80,6 @@ body {
     margin-left: 300px;
     margin-right: 300px;
     overflow: scroll;
-
-    position: fixed;
-    top: 0;
-    bottom: 0;
 
     max-width: 600px;
     border: 1px solid black;
@@ -133,8 +113,4 @@ body {
     display: flex;
     justify-content: center;
     overflow: scroll;
-
-    position: fixed;
-    top: 0;
-    bottom: 0;
 }
