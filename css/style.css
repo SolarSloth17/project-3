@@ -14,13 +14,14 @@ body {
 
     position: fixed;
 
-    margin: auto;
-    margin: auto;
+   margin-left: 300px;
+   margin-right: 300px;
 }
 
 .navigation a {
     text-decoration: none;
     color: black;
+
 }
 
 .site-title {
@@ -42,6 +43,7 @@ body {
     margin: auto;
     text-decoration: none;
     color: black;
+    display: inline-block;
  }
 
  .site-links a:hover {
@@ -76,7 +78,7 @@ body {
     padding: 1em;
 
     margin-left: 300px;
-    margin-right: auto;
+    margin-right: 300px;
 
 }
 
@@ -86,26 +88,22 @@ body {
    
     padding: 1em;
     position: fixed;
-    vertical-align: middle;
+    vertical-align: left;
 
     margin: 5em;
     margin-left: 300px;
     margin-right: auto;
 
-    top: 20px;
-    left: 100px;
-    max-width: 300px;
     font-size: 2em;
-    opacity: 0.8;
+    
     text-align: justify;
 }
 
 .portrait {
     height: 10%;
     width: 5%;
-    float: right;
-    display: block;
-    margin-left: auto;
+   
+    margin-left: 300px;
     margin-right: 300px;
     margin-bottom: 5em;
 }
