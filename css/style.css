@@ -82,7 +82,7 @@ body {
 .about-me p {
     background-color: blue;
     color: white;
-    text-align: left;
+   
     padding: 1em;
     position: fixed;
     vertical-align: middle;
@@ -95,6 +95,7 @@ body {
     max-width: 300px;
     font-size: 2em;
     opacity: 0.8;
+    text-align: justify;
 }
 
 .portrait {
